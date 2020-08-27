@@ -1,2 +1,9 @@
 # Assembly Float Adder
-An assembly (MIPS) program to add Floating point numbers.
+
+- **Description** : An assembly (MIPS) program to add Floating point numbers.
+___
+- **Relevant Area** : Assembly
+___
+- **Tools / Platforms**: MIPS, QtSpim.
+___
+
